@@ -1,0 +1,9 @@
+/**
+*学习使用GitHub仓库
+*/
+//这是书写的第一个JAVA
+class one{
+  public static void main(String[] args){
+  System.out.println("你喜欢吗");
+  }
+}
